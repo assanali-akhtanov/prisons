@@ -13,7 +13,7 @@ html, body {
 .padder,
 .subtitle,
 .title {
-  background-color: #e2dcc6;
+  background-color: red;
 }
 .subtitle {
   text-align: center;
@@ -57,7 +57,7 @@ h1 {
 }
 .prisoners {
   min-height: 200000px;
-  background-color: white;
+  background-color: #90e0ef;
 }
 .black .prisoners {
   background-image: url('img/bg/black.svg');
@@ -1074,7 +1074,7 @@ blockquote strong {
     top: 42px;
     left: 0;
     font-size: 14px;
-    background-color: #e2dcc6;
+    background-color: #0077b6;;
     line-height: 20px;
   }
   .title {
